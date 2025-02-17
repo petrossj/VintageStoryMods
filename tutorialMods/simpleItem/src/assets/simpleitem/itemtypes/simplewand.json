@@ -1,0 +1,12 @@
+{
+  "code": "simplewand",
+  "creativeinventory": {
+    "general": ["*"]
+  },
+  "texture": {
+    "base": "item/simplewand"
+  },
+  "shape": {
+    "base": "item/simplewand"
+  }
+}
