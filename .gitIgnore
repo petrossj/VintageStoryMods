@@ -1,1 +1,6 @@
+// File Extensions
 *.exe
+
+// Directories
+/doNotCommit/*
+/.vs/*
